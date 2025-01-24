@@ -4,4 +4,7 @@
     <string name="tex_daw">Estás en el ciclo DAw</string>
     <string name="tex_asir">Estás en el ciclo ASIR</string>
     <string name="text_button_return">Regresar</string>
+    <string name="image_name_ASIR">Imagen del ciclo ASIR</string>
+    <string name="image_name_DAM">Imagen del ciclo DAM</string>
+    <string name="image_name_DAW">Imagen del ciclo DAW</string>
 </resources>
