@@ -2,7 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="green">#52FF21</color>
-    <color name="red_">#FD5336</color>
-    <color name="purple">#B474FD</color>
+    <color name="ASIR">#b675ff</color>
+    <color name="DAW">#ff5436</color>
+    <color name="DAM">#c1ff65</color>
+    <color name="main">#474444</color>
 </resources>

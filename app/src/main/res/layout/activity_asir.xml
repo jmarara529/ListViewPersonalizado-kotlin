@@ -5,8 +5,8 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".asir_activity"
-    android:background="@color/purple">
+    tools:context=".Asir_activity"
+    android:background="@color/ASIR">
 
     <ImageView
         android:id="@+id/imageView"

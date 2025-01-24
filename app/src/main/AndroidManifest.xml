@@ -13,13 +13,13 @@
         android:theme="@style/Theme.ListViewPersonalizadokotlin"
         tools:targetApi="31">
         <activity
-            android:name=".asir_activity"
+            android:name=".Asir_activity"
             android:exported="false" />
         <activity
-            android:name=".daw_activity"
+            android:name=".Daw_activity"
             android:exported="false" />
         <activity
-            android:name=".dam_activity"
+            android:name=".Dam_activity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

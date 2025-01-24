@@ -5,8 +5,8 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".dam_activity"
-    android:background="@color/green">
+    tools:context=".Dam_activity"
+    android:background="@color/DAM">
 
         <ImageView
             android:id="@+id/imageView"
