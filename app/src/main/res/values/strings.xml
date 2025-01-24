@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ListViewPersonalizado-kotlin</string>
+    <string name="tex_dam">Estás en el ciclo DAM</string>
+    <string name="tex_daw">Estás en el ciclo DAw</string>
+    <string name="tex_asir">Estás en el ciclo ASIR</string>
+    <string name="text_button_return">Regresar</string>
 </resources>
